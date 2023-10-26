@@ -1,19 +1,19 @@
 # VueJS-November 2023
 
-Обучението ми даде знания и практически умения за изграждане на Single Page Applications (SPA) с технологията VueJS – една бързо нарастваща по популярност библиотека, която се ползва в уебсайтове като Nintendo, Gitlab, Wizzair и Laravel. VueJS предоставя една много удобна архитектура и се фокусира върху декларативното рендериране и цялостна компонентна композиция. По време на курса се обърна специално внимание на изграждане и организиране на проекти, компонентно базирани архитектури, темплейти, работа с директиви и форми, рутиране и работа с информация от REST API. Програмата покри активно както така наречения Options API синтаксис характерен за библиотеката, така и новия Composition API, който е въведен с най-новата версия. Всички теми включени в изданието са приложими за VueJS 2 и VueJS 3 проекти.
+This course provides the knowledge and practical skills to build Single Page Applications (SPA) with VueJS technology, a library that is rapidly growing in popularity and is used in websites such as Nintendo, Gitlab, Wizzair and Laravel. VueJS provides a very user-friendly architecture and focuses on declarative rendering and overall component composition. The course will focus on building and organizing projects, component-based architectures, templates, working with directives and forms, routing, and working with REST API information. The program will actively cover both the so-called Options API syntax specific to the library and the new Composition API that was introduced with the latest version. All topics included in the release are applicable to VueJS 2 and VueJS 3 projects.
 
-Умения, които придобих :
+Acquired skills:
 
--Работа с progressive framework
-
--Изграждане на Single-Page Application
-
--Работа с отдалечени услуги
-
--Изграждане на компонентно-базирани архитектури
-
--Изграждане на формуляри и валидиране на данни
-
--Менижиране на състоянието ползвайки Vuex
-
-Преподавател : Симеон Петров
+  - Skills to build web applications with VueJS
+  
+  - Skills to work with Composition API
+  
+  - Working with progressive framework
+  
+  - Building a Single page application
+  
+  - Building component-based architectures
+  
+  - Building forms and validating data
+  
+  - Managing a site with Pinia
