@@ -3,6 +3,7 @@ import antfu from '@antfu/eslint-config';
 export default antfu({
   vue: true,
   typescript: false,
+  stylistic: false,
 }, {
   files: ['**/*.vue'],
   rules: {
@@ -20,6 +21,6 @@ export default antfu({
   rules: {
     'curly': 'off',
     'no-console': 'off',
-    'style/semi': ['error', 'always']
+    // 'style/semi': ['error', 'always'],
   },
 });
